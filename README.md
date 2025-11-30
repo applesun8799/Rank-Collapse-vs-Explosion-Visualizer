@@ -1,12 +1,13 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1245" height="1116" alt="微信图片_2025-11-30_084421_656" src="https://github.com/user-attachments/assets/48c3f0be-1354-4f54-9ffa-5ad3805c021a" />
+
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1CjbtstxX26h8C94B-3lJlDZkMcSgNTVv
+url:https://rank-visualizer.netlify.app/
 
 ## Run Locally
 
