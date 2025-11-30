@@ -1,0 +1,5 @@
+{
+  "name": "Rank Collapse vs Explosion Visualizer",
+  "description": "An interactive visualization of the 'Rank' balance in Large Model training. Visualize the tension between Model Collapse (Low Rank) and Gradient Explosion (High Rank).",
+  "requestFramePermissions": []
+}
