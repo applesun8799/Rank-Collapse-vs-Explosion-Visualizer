@@ -7,8 +7,6 @@
 
 This contains everything you need to run your app locally.
 
-url:https://rank-visualizer.netlify.app/
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
